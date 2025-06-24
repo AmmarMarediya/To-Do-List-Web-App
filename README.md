@@ -28,7 +28,7 @@
 
 | 💻 Desktop View | 📱 Mobile View |
 |----------------|----------------|
-| ![Desktop](Screenshots/desktop.png) | ![Mobile](Screenshots/mobile.jpg) |
+| ![Desktop](ScreenShots/desktop.png) | ![Mobile](ScreenShots/mobile.jpg) |
 
 ---
 
