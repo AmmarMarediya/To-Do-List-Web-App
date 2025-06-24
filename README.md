@@ -19,7 +19,7 @@
 
 ## 🔗 Live Preview
 
-👉 [View Live App(https://ammarmarediya.github.io/To-Do-List-Web-App/)  
+👉 [View Live App](https://ammarmarediya.github.io/To-Do-List-Web-App/)  
 🔗 [GitHub Repo](https://github.com/AmmarMarediya/To-Do-List-Web-App.git)
 
 ---
